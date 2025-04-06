@@ -76,6 +76,15 @@ const quotes = () => {
 
     return(
         <>
+        <div className="title">
+            WONDER QUOTES
+        </div>
+        <div className="header"> 
+            <a href="#">HOME</a>
+            <a href="#">MOTIVATIONAL QUOTES</a>
+            <a href="#">ABOUT AUTHOR</a>
+            <a href="#">ABOUT US</a>
+        </div>
         
         <div className="box"> 
             <div className="quotes">{quotes.quote}</div>

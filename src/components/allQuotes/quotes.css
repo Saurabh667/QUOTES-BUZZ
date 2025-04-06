@@ -1,3 +1,26 @@
+.title{
+  background-color: black;
+  text-align: center;
+  height: 30px;
+  width: 1300px;
+  font-size: 24px;
+  font-family: Georgia;
+  /* padding-bottom: 15px; */
+  margin-bottom: 15px;
+  margin-top: 1px;
+  
+}
+.header{
+  height: 30px;
+  font-size: 18px;
+  font-family: Georgia;
+  background-color: rgb(56, 52, 52);
+  gap: 10px;
+  align-items: center;
+  align-content: center;
+
+
+}
 .box{
     display: flex;
     flex-direction: column;
@@ -9,6 +32,7 @@
     margin-left: 250px;
     border-radius: 15px;
     height: 280px;
+    
  }
 .quotes{
     padding: 50px;
@@ -45,17 +69,17 @@
     height: 38px;
 }
 .reload{
-    background-color: #273027; /* Green background */
-    color: white; /* White text */
-    border: none; /* Remove default border */
-    padding: 10px 20px; /* Padding for the button */
-    font-size: 16px; /* Font size */
-    cursor: pointer; /* Show pointer on hover */
-    border-radius: 5px; /* Rounded corners */
-    display: flex; /* Flexbox for alignment */
-    align-items: center; /* Center text and icon vertically */
-    gap: 10px; /* Space between icon and text */
-    transition: background-color 0.3s ease; /* Smooth transition on hover */
+    background-color: #273027; 
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    display: flex; 
+    align-items: center; 
+    gap: 10px; 
+    transition: background-color 0.3s ease; 
   }
   
   .reload:hover {
