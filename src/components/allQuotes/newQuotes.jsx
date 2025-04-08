@@ -34,7 +34,7 @@ const randomQuotes = [
     { quote: "You are never too old to set another goal or to dream a new dream.", author: "C.S. Lewis" },
     { quote: "All our dreams can come true, if we have the courage to pursue them.", author: "Walt Disney" },
     { quote: "Hardships often prepare ordinary people for an extraordinary destiny.", author: "C.S. Lewis" },
-    { quote: "Keep going. Everything you need will come to you at the perfect time.", author: "Unknown" },
+    { quote: "Keep going. Everything you need will come to you at the perfect time.", author: "Unknown(LORD KRISHNA)" },
     { quote: "The best way to predict the future is to create it.", author: "Peter Drucker" },
     { quote: "You don’t have to be great to start, but you have to start to be great.", author: "Zig Ziglar" },
     { quote: "Strive not to be a success, but rather to be of value.", author: "Albert Einstein" },

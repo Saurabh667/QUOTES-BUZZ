@@ -1,9 +1,10 @@
 import React, { useState } from "react";
 import like_icon from '../../assets/logos/like-icon.png';
 import reload_icon from '../../assets/logos/reload-icon.png';
-// import background from '../../assets/logos/quotes-bg';
 import './quotes.css';
 import Quotes from "./newQuotes";
+import { Link } from "react-router-dom";
+
 
 
 
@@ -27,11 +28,12 @@ const quotes = () => {
         <div className="title">
             WONDER QUOTES
             <div className="header"> 
-                <a href="#" id="home">HOME</a>
-                <a href="#" id="q">MOTIVATIONAL QUOTES</a>
-                <a href="#" id="about">ABOUT AUTHOR</a>
-                <a href="#" id="us">ABOUT US</a>
+                <Link to="/home">HOME</Link>
+                <Link to="/vedic">VEDIC QUOTES</Link>
+                <Link to="/author">ABOUT AUTHOR</Link>
+                <Link to="/about">ABOUT US</Link>
             </div>
+            
         </div>
         
         
@@ -53,6 +55,7 @@ const quotes = () => {
                 </div>
                 {/* <button onClick={() => setQuotes(getRandomQuote())} className="reload">reload</button> */}
         </div>
+        
         </>
     )
 }
