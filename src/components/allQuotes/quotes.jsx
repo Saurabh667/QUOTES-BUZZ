@@ -28,7 +28,7 @@ const quotes = () => {
         <div className="title">
             WONDER QUOTES
             <div className="header"> 
-                <Link to="/home">HOME</Link>
+                {/* <Link to="/home">HOME</Link> */}
                 <Link to="/vedic">VEDIC QUOTES</Link>
                 <Link to="/author">ABOUT AUTHOR</Link>
                 <Link to="/about">ABOUT US</Link>
@@ -55,6 +55,7 @@ const quotes = () => {
                 </div>
                 {/* <button onClick={() => setQuotes(getRandomQuote())} className="reload">reload</button> */}
         </div>
+       
         
         </>
     )

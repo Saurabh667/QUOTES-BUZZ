@@ -66,7 +66,7 @@ const vedic = () => {
             👉 "Each person’s faith corresponds to their inner nature."
             </div>
             <div className="content">
-            "Yada yada hi dharmasya glanir bhavati bharata"<br/><br/>
+            "Yada yada hi dharmasya glanir bharvati bharata"<br/><br/>
             (यदा यदा हि धर्मस्य ग्लानिर्भवति भारत)<br/><br/>MEANS-
             👉 "Whenever righteousness declines, I manifest Myself."
             </div>
@@ -105,6 +105,10 @@ const vedic = () => {
             "Jnana yajnena tena mam upasate"<br/><br/>
             (ज्ञानयज्ञेन तेन मामुपासते)<br/><br/>MEANS-
             👉 "Through the sacrifice of knowledge, some worship Me."
+            </div>
+
+            <div className='footer'>
+                THANK YOU SO MUCH FOR VISITING 
             </div>
             
         </div>

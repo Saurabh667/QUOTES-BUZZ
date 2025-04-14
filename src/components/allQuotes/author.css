@@ -1,0 +1,87 @@
+.page{
+    height: 750px;
+    /* background-image: url('/src/assets/logos/author-bg.jpg');
+    background-size: cover; */
+    background-color: #76A9FA;
+}
+.bar{
+    height: 85px;
+    border-radius: 25px;
+    background-color:#fd6e6e;
+    border: 9px solid #f01616;
+    padding-top: 45PX;
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.boxa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-top: 80px;
+    width: 800px; 
+    background-color: #F9FAFB;
+    margin-left: auto;
+    border-radius: 15px;
+    height: 280px;
+    margin-bottom: 25px;
+    
+ }
+ .about{
+    padding: 30px;
+    color: black;
+    text-align: center;
+    font-size: 34px;
+    font-family: Georgia;
+ }
+ .linea{
+    width: 680px;
+    height: 3px;
+    background-color: rgb(255, 0, 0);
+}
+.bottoma{
+    flex-direction: column;
+  align-items: center;
+  margin: auto;
+  margin-top: 0px;
+  width: 800px; 
+  background-color: oklch(96.17% 0.06 95.87deg);
+  margin-left: auto;
+  border-radius: 15px;
+  height: 60px;
+}
+.designa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.author-name{
+    font-size: 2rem;
+    font-weight: bold; 
+    color: #333;
+    align-self: center;
+}
+.reloada {
+    background-color: #4b6cb7;
+    background-image: linear-gradient(to right, #4b6cb7, #182848);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    margin-top: 20px;
+    margin-left: 650px;
+  }
+  
+  .reloada:hover {
+    background-image: linear-gradient(to right, #182848, #4b6cb7); 
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  

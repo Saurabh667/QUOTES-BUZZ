@@ -1,8 +1,10 @@
 :root {
   margin: 0px;
   padding: 0px;
-  background-image: url('/src/assets/logos/quotes-bg.jpg');
-  background-size: cover;
+  /* background-image: url('/src/assets/logos/quotes-bg.jpg');
+  background-size: cover; */
+  background-color: #333333; 
+ 
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 15px;
