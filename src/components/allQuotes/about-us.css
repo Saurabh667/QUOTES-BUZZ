@@ -53,4 +53,13 @@
     margin-top: 20px;
     border-radius: 50%;
   }
+  .footer {
+    margin-top: 40px;
+    font-size: 1em;
+    color: #ac9797;
+  }
+  
+  .footer p {
+    margin: 0;
+  }
   

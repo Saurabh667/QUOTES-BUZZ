@@ -4,7 +4,7 @@
     background-size: cover; */
     background-color: #76A9FA;
 }
-.bar{
+/* .bar{
     height: 85px;
     border-radius: 25px;
     background-color:#fd6e6e;
@@ -13,7 +13,22 @@
     font-size: 32px;
     text-align: center;
     margin-bottom: 50px;
-}
+} */
+.bar {
+    background: linear-gradient(90deg, #4b6cb7, #182848); 
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 20px 30px;
+    text-align: center;
+    border-radius: 12px;
+    margin: 40px auto 20px;
+    max-width: 900px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    letter-spacing: 1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
 .boxa{
     display: flex;
     flex-direction: column;

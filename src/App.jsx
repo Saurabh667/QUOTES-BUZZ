@@ -1,6 +1,6 @@
 import React from 'react';
 import Quotes from './components/allQuotes/quotes';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './components/allQuotes/home';
 import Vedic from './components/allQuotes/vedic-quotes';
 import About from './components/allQuotes/about-us';

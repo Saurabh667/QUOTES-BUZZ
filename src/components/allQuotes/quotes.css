@@ -169,6 +169,16 @@
 .like-count:hover {
   transform: scale(1.3);
 }
+.footer {
+  margin-top: 40px;
+  font-size: 1em;
+  color: #777;
+}
+
+.footer p {
+  margin: 0;
+}
+
  
 /* .reload{
     background-color: #435e43; 

@@ -153,7 +153,7 @@ const author = () =>{
 
                 </div>
             </div>
-            <button onClick={() => setRandomAuthor(getRandomAuthor())} className="reloada">Reload</button>
+            <button onClick={() => setRandomAuthor(getRandomAuthor())} className="reloada">Next</button>
 
             
         </div>

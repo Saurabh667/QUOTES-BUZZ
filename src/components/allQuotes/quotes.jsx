@@ -55,6 +55,9 @@ const quotes = () => {
                 </div>
                 {/* <button onClick={() => setQuotes(getRandomQuote())} className="reload">reload</button> */}
         </div>
+        <div className="footer">
+          <p>&copy; 2025 Quote Generator | To Inspire The Generation</p>
+        </div>
        
         
         </>

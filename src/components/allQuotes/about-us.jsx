@@ -5,7 +5,7 @@ import './about-us.css';
 const about = () => {
     return(
         <>
-        <div className="about-page">
+    <div className="about-page">
       <div className="about-container">
         <u><h1 className="about-title">About Our Quote Generator</h1></u>
         <p className="about-description">
