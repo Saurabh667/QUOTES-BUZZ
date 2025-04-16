@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-    <Router>
+    <Router basename="/QUOTES-BUZZ">
       <Routes>
         <Route path="/" element={<Quotes />} />
         {/* <Route path="/home" element={<Home />} /> */}
